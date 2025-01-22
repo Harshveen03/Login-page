@@ -49,11 +49,11 @@ label{
 .button-1{
     display: block;
     border-radius: 22px;
-    font-size: large;
+    font-size: 15px;
     width: 90%;
     margin-left: 20px;
     background-color: rgb(89, 0, 172);
-    padding: 7px;
+    padding: 8px;
     color: white;
 
 }
